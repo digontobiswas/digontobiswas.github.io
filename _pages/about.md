@@ -66,4 +66,3 @@ Biofolk (Remote)
 - Best Reader Award – World Literature Center (2014)
 **Last updated**: March 18, 2026
 ---
-*This site is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages. All content is based on my CV and research focus in Computer Vision, Medical Imaging, Vision Language Models, and Autonomous Vehicle perception systems.*
