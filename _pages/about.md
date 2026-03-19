@@ -12,7 +12,7 @@ redirect_from:
 [![GitHub](https://img.shields.io/badge/GitHub-digontobiswas-black?style=flat&logo=github)](https://github.com/digontobiswas)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=cdnKCqMAAAAJ)
 [digontobiswas.kp.bd@gmail.com](mailto:digontobiswas.kp.bd@gmail.com) | [+8801764348319](tel:+8801764348319)
-I am an undergraduate Computer Science researcher specializing in Computer Vision. My research interests include medical
+- I am an undergraduate Computer Science researcher specializing in Computer Vision. My research interests include medical
 imaging, autonomous vehicles, explainable AI for clinical support, and Vision Language Models (VLMs). My goal is to
 pursue a Ph.D. and develop robust AI systems.
 ### Research Interests
