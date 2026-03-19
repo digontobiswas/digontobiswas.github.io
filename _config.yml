@@ -22,7 +22,7 @@ repository : "digontobiswas/digontobiswas.github.io"
 # Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar : "profile.png"
+  avatar : "profile.jpg"
   name : "Digonto Biswas"
   pronouns : # example: "she/her"
   bio : "Undergraduate Computer Science researcher focused on Computer Vision, Medical Image Analysis, Explainable AI, and Vision Language Models. I develop deep learning models using medical data with attention-based fusion and interpretability. My goal is to pursue a Ph.D. and build robust AI systems for clinical support and autonomous vehicle perception."
