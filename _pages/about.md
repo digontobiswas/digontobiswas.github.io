@@ -12,9 +12,9 @@ redirect_from:
 [![GitHub](https://img.shields.io/badge/GitHub-digontobiswas-black?style=flat&logo=github)](https://github.com/digontobiswas)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=cdnKCqMAAAAJ)
 [digontobiswas.kp.bd@gmail.com](mailto:digontobiswas.kp.bd@gmail.com) | [+8801764348319](tel:+8801764348319)
-I am an undergraduate Computer Science researcher focused on **Computer Vision** and **Medical Imaging**. My primary interests include **medical image analysis**, **explainable AI (XAI)** for clinical support, and **Vision Language Models (VLMs)**. I develop deep learning models using real-world medical data, with special emphasis on **attention-based fusion**, **multimodal learning**, and **interpretability**.
-My current research explores **Vision Language Models** for interpretable medical image understanding (integrating radiology reports with imaging features). I am also actively interested in **Computer Vision applications for Autonomous Vehicles** (perception systems, safety-critical decision making, and multimodal sensor fusion).
-My long-term goal is to pursue a **Ph.D.** and build robust, clinically-trusted AI systems that bridge imaging, clinical text, and real-world deployment in healthcare and autonomous systems.
+I am an undergraduate Computer Science researcher specializing in Computer Vision. My research interests include medical
+imaging, autonomous vehicles, explainable AI for clinical support, and Vision Language Models (VLMs). My goal is to
+pursue a Ph.D. and develop robust AI systems.
 ### Research Interests
 - Medical Image Analysis (mpMRI, Histopathology, Chest CT)
 - Vision Language Models & Multimodal Fusion
