@@ -29,6 +29,7 @@ to publications, and mentor undergraduate researchers through structured researc
 </div>
 <p>Biofolk (Remote) <a href="https://biofolk.info/">Visit</a></p>
 ------
+
 **Key Responsibilities:**
 - Co-founded BioFOLK, an interdisciplinary research and knowledge-exchange platform, contributing to its vision and
 research direction, leading collaborative initiatives, and fostering interdisciplinary research culture, education, and global collaboration.
@@ -58,6 +59,7 @@ to publications, and mentor undergraduate researchers through structured researc
 </div>
 <p>Biofolk (Remote) <a href="https://biofolk.info/">Visit</a></p>
 ------
+
 **Key Responsibilities:**
 - Co-founded BioFOLK, an interdisciplinary research and knowledge-exchange platform, contributing to its vision and
 research direction, lead
