@@ -42,7 +42,7 @@ KineTex Lab (KIIT Chapter), KIIT University, Bhubaneswar
 Biofolk (Remote)
 - Co-founded an interdisciplinary research platform bridging academia and industry
 - Leading collaborative initiatives in AI for healthcare and computational biology
-- 
+  
 Selected Publications
 ======
 (Full list available on the **[Publications](/publications/)** page)
