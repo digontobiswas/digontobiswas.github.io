@@ -13,7 +13,7 @@ redirect_from:
 [![GitHub](https://img.shields.io/badge/GitHub-digontobiswas-black?style=flat&logo=github)](https://github.com/digontobiswas)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=cdnKCqMAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digonto-biswas/)
-[digontobiswas.kp.bd@gmail.com](mailto:digontobiswas.kp.bd@gmail.com) | [+8801764348319](tel:+8801764348319) \
+[digontobiswas.kp.bd@gmail.com](mailto:digontobiswas.kp.bd@gmail.com) | [+8801764348319](tel:+8801764348319) 
 
 I am a dedicated [Lecturer](https://profile.diu.ac/amritadastipu) at [Dhaka International University (DIU)](https://diu.ac/), committed to enhancing the quality of education through continuous self-improvement. I earned my Bachelor of Science (Engineering) in Computer Science and Engineering from [Hajee Mohammad Danesh Science and Technology University (HSTU)](https://hstu.ac.bd/) in 2023. Shortly after graduation, I joined DIU as a lecturer, where I continue to teach and inspire students.
 
