@@ -6,14 +6,14 @@ author_profile: true
 
 <!-- This page lists all my professional, extracurricular and volunteering experiences. -->
 
-Professional Experience
+Research Experience
 ======
 
 <div style="display: flex; justify-content: space-between;">
   <span style="font-size:20px"><b>Undergraduate Research Assistant & Co-Lead (AI/ML Systems)</b></span>
   <span><i>May 2025 - Present</i></span>
 </div>
-<p>KineTex Lab (KIIT Chapter), KIIT University, Bhubaneswar, India <a href="https://www.kinetex.in/">Visit</a></p></p>
+<p>KineTex Lab (KIIT Chapter), KIIT University, Bhubaneswar, India <a href="https://www.kinetex.in/">Visit</a></p>
 ------
 
 **Key Responsibilities:**
@@ -29,18 +29,38 @@ to publications, and mentor undergraduate researchers through structured researc
 </div>
 <p>Biofolk (Remote) <a href="https://biofolk.info/">Visit</a></p>
 ------
+**Key Responsibilities:**
+- Co-founded BioFOLK, an interdisciplinary research and knowledge-exchange platform, contributing to its vision and
+research direction, leading collaborative initiatives, and fostering interdisciplinary research culture, education, and global collaboration.
 
-During the Covid-19 pandemic, I had the opportunity to participate in a research project led by Dr. Md. Arshad Ali  to develop a biometric attendance system using smart IoT device. Together with my team, we built the system from the ground up under his guidance.
-- Gained valuable experience working with Raspberry Pi computers and fingerprint sensors for biometric data collection.
-- Learned back-end development and contributed to the system's database design and server integration.
-- Collaborated closely with team members to troubleshoot and optimize system performance.
-- Assisted in testing and debugging the system to ensure accuracy and reliability.
-
-This project inspired me to create solutions for real-world problems and gave me an overview of the entire system development lifecycle. It proved valuable in later semesters when I worked with my team on multiple projects to meet course requirements.
 
 
 Other Experience
 ======
+
+<div style="display: flex; justify-content: space-between;">
+  <span style="font-size:20px"><b>Undergraduate Research Assistant & Co-Lead (AI/ML Systems)</b></span>
+  <span><i>May 2025 - Present</i></span>
+</div>
+<p>KineTex Lab (KIIT Chapter), KIIT University, Bhubaneswar, India <a href="https://www.kinetex.in/">Visit</a></p>
+------
+
+**Key Responsibilities:**
+- Conduct AI/ML-driven biomedical research in medical imaging, multimodal learning, and XAI; develop deep learning
+and transformer models using large-scale clinical datasets, collaborate with PhD scholars on ongoing projects, contribute
+to publications, and mentor undergraduate researchers through structured research guidance.
+
+
+
+<div style="display: flex; justify-content: space-between;">
+  <span style="font-size:20px"><b>Co-founder and Researcher</b></span>
+  <span><i>May 2025 - Present </i></span>
+</div>
+<p>Biofolk (Remote) <a href="https://biofolk.info/">Visit</a></p>
+------
+**Key Responsibilities:**
+- Co-founded BioFOLK, an interdisciplinary research and knowledge-exchange platform, contributing to its vision and
+research direction, lead
 
 <div style="display: flex; justify-content: space-between;">
   <span style="font-size:20px"><b>Batch Councilor</b></span>
