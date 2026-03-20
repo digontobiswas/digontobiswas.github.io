@@ -100,11 +100,8 @@ Other Experience
 
 **Key Responsibilities:**
 - My journey into technology began with a promise from my father. Growing up near the sea beach of Kuakata, in an undeveloped area, he told me that if I did well on my PSC exam, he would buy me a laptop. True to his word, when I entered high school, I received my first computer. At that time, computers were rare in my village you might see one at a police station, government office, or a shop for Skype calls and emails. Most people, even computer owners, had little idea how to fix them. For serious issues, machines had to be sent to Barishal or even Dhaka.
-
 - My steep learning curve began when I tried to install a game and was blocked by a graphics driver issue. No one could help, so I turned to my father’s Nokia C2 phone, tethered by USB for a painfully slow internet connection. That was my breakthrough. I learned what a driver was, found the right one, and solved the problem myself. This success ignited my passion. I went deeper exploring disk partitioning, MBR vs GPT, UEFI vs legacy boot, and troubleshooting hardware and software. I learned to install Windows (XP, 7, 8.1, 10) and Linux, and to diagnose issues with RAM, hard disks, motherboards, and network cards.
-
 - Word spread that a young student knew computers. The owner of a newly opened service center contacted me. His model was simple: collect faulty machines and send them to the city for repair. Instead, he gave me a chance. I used research to fix problems locally. Once, a “black screen” PC came in. I suspected faulty RAM, swapped it with another, and it worked instantly. I had proven myself.
-
 - While repairing machines, I saw a bigger issue our community’s isolation came from the lack of reliable internet. I proposed to the service center owner: “Instead of just fixing computers, why don’t we become an ISP and bring the internet to our town?” He believed in my vision. Together, we secured a license, bought bandwidth, and with one MikroTik router and Cat 6 cables, began providing connections house by house.
 
 
