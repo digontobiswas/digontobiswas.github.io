@@ -114,5 +114,4 @@ Education
   <span><i>Jun 2023 - Present</i></span>
 </div>
 <p>Kalinga Institute of Industrial Technology, Bhubaneswar, India</p>
-------
 
