@@ -28,7 +28,9 @@ Research Interest
 - Foundation Models
 - Human-AI Interaction
 - 
-### Professional Experience
+Professional Experience
+======
+
 **Undergraduate Research Assistant & Co-Lead (AI/ML Systems)**
 *Jan 2025 – Present*
 KineTex Lab (KIIT Chapter), KIIT University, Bhubaneswar
