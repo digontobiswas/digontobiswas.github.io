@@ -1,12 +1,12 @@
 ---
 permalink: /
-# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+ title: "About"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-# About
+
 **Bhubaneswar, India**
 [![GitHub](https://img.shields.io/badge/GitHub-digontobiswas-black?style=flat&logo=github)](https://github.com/digontobiswas)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=cdnKCqMAAAAJ)
