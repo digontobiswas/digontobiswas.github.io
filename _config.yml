@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale : "en-US"
 site_theme : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title : "Digonto Biswas"
+title : "About"
 title_separator : "-"
 name : &name "Digonto Biswas"
 description : &description "Undergraduate Computer Vision & Medical Imaging researcher | KIIT University | Currently working on Vision Language Models | PhD Aspirant in AI for clinical support" # Update this with a general description of your site, this is the default if not overridden by a page
