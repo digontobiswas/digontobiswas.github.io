@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About
+# 
 
 **Bhubaneswar, India**  
 [GitHub digontobiswas](https://github.com/digontobiswas)  
