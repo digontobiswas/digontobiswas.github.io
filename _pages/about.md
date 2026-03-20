@@ -27,7 +27,7 @@ Research Interest
 - Interpretable AI
 - Foundation Models
 - Human-AI Interaction
-- 
+  
 Professional Experience
 ======
 
