@@ -55,7 +55,7 @@ Other Experience
   <span style="font-size:20px"><b>Head of ICT Cell</b></span>
   <span><i>Mar 2020 - May 2023 </i></span>
 </div>
-<p>Head of ICT Cell Sheikh Russel National Children and Adolescent Council</a></p>
+<p>Head of ICT Cell Sheikh Russel National Children and Adolescent Council</p>
 ------
 
 **Key Responsibilities:**
@@ -65,7 +65,7 @@ Other Experience
   <span style="font-size:20px"><b>IT & MIS(Internship</b></span>
   <span><i>Feb 2021 - Dec 2023 </i></span>
 </div>
-<p>TAKAS ENTERPRISE</a></p>
+<p>TAKAS ENTERPRISE</p>
 ------
 
 **Key Responsibilities:**
@@ -75,7 +75,7 @@ Other Experience
   <span style="font-size:20px"><b>Web Developer</b></span>
   <span><i>Feb 2021 - Dec 2023 </i></span>
 </div>
-<p>Freelance</a></p>
+<p>Freelance</p>
 ------
 
 **Key Responsibilities:**
@@ -85,7 +85,7 @@ Other Experience
   <span style="font-size:20px"><b>Technical Support, ISP</b></span>
   <span><i>Mar 2017 - Dec 2019 </i></span>
 </div>
-<p>A. M Network [kalapara]</a></p>
+<p>A. M Network [kalapara]</p>
 ------
 
 **Key Responsibilities:**
@@ -95,7 +95,7 @@ Other Experience
   <span style="font-size:20px"><b>Service TechnicianP</b></span>
   <span><i>Jan 2016 - Dec 2019 </i></span>
 </div>
-<p> A.M Computer Service</a></p>
+<p> A.M Computer Service</p>
 ------
 
 **Key Responsibilities:**
