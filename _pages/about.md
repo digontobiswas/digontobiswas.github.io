@@ -47,22 +47,5 @@ Biofolk (Remote)
 - Leading collaborative initiatives in AI for healthcare and computational biology
 ### Selected Publications
 (Full list available on the **[Publications](/publications/)** page)
-**Journal & Preprints**
-• Chakrabarty, S., Biswas, D., Ballove, T., Bandyopadhyay, A., Biswas, M. (2026). *Efficient Deep Learning for Histopathology: A Comparative Analysis of YOLO26 and CNNs for Oral Cancer Classification*. Preprint at SSRN.
-**Conference Papers**
-• Halder et al. (2025). Deployment of Machine Learning Model for Predictive Analysis of Rising Crime Trends. Springer.
-• Das et al. (2025). Enhanced Autism Spectrum Disorder Detection Using Deep Multimodal EEG–Facial Image Fusion. 16th ICCCNT.
-• Chakrabarty et al. (2025). Soundscapes in Spectrograms: Pioneering Multilabel Classification for South Asian Sounds. 16th ICCCNT.
-**Book Chapters**
-• Jana et al. (2026). AI in Cancer Drug Development and Immunotherapy. Academic Press (Elsevier).
-• Biswas et al. (2026). Cloud and HPC Platforms for Molecular Docking and Simulation. Academic Press (Elsevier).
-**Under Review**
-• Privacy, Ethics, and Explainability in Medical NLP (CRC Press, 2026)
-• Quantum-driven AI agents in healthcare and genomics (CRC Press, 2026)
-### Awards & Achievements
-- KUISP SAARC Scholarship (60% tuition, accommodation, meals – 2023–2024)
-- Pupil rank on Codeforces (peak rating 1208)
-- 2nd position – Walton International Rating Chess Tournament 2023
-- Best Reader Award – World Literature Center (2014)
 **Last updated**: March 18, 2026
 ---
