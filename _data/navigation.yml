@@ -11,14 +11,14 @@ main:
     url: /publications/
   - title: "Experience"
     url: /experience/
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+  #  url: /portfolio/
        
   - title: "CV"
     url: /files/cv.pdf
    
-  - title: "Talks"
-    url: /talks/
+  #- title: "Talks"
+  #  url: /talks/
    
   # - title: "Teaching"
   #   url: /teaching/
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   # url: /cv-json/
    
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
