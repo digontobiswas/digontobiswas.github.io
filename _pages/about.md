@@ -18,6 +18,7 @@ redirect_from:
 I am an undergraduate Computer Science researcher specializing in Computer Vision. My research interests include medical
 imaging, autonomous vehicles, explainable AI for clinical support, and Vision Language Models (VLMs). My goal is to
 pursue a Ph.D. and develop robust AI systems.
+
 Research Interest
 ======
 
