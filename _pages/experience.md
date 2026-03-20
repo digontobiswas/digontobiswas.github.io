@@ -13,7 +13,7 @@ Professional Experience
   <span style="font-size:20px"><b>Undergraduate Research Assistant & Co-Lead (AI/ML Systems)</b></span>
   <span><i>May 2025 - Present</i></span>
 </div>
-<p>KineTex Lab (KIIT Chapter), KIIT University, Bhubaneswar, India</p>
+<p>KineTex Lab (KIIT Chapter), KIIT University, Bhubaneswar, India <a href="https://www.kinetex.in/">Visit</a></p></p>
 ------
 
 **Key Responsibilities:**
@@ -24,10 +24,10 @@ to publications, and mentor undergraduate researchers through structured researc
 
 
 <div style="display: flex; justify-content: space-between;">
-  <span style="font-size:20px"><b>Research Assistant</b></span>
-  <span><i>July 2020 - June 2021</i></span>
+  <span style="font-size:20px"><b>Co-founder and Researcher</b></span>
+  <span><i>May 2025 - Present </i></span>
 </div>
-<p>Hajee Mohammad Danesh Science and Technology University (HSTU), Dinajpur-5200, Bangladesh</p>
+<p>Biofolk (Remote) <a href="https://biofolk.info/">Visit</a></p>
 ------
 
 During the Covid-19 pandemic, I had the opportunity to participate in a research project led by Dr. Md. Arshad Ali  to develop a biometric attendance system using smart IoT device. Together with my team, we built the system from the ground up under his guidance.
