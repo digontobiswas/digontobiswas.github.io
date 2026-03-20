@@ -10,17 +10,17 @@ Professional Experience
 ======
 
 <div style="display: flex; justify-content: space-between;">
-  <span style="font-size:20px"><b>Lecturer</b></span>
-  <span><i>May 2024 - Present</i></span>
+  <span style="font-size:20px"><b>Undergraduate Research Assistant & Co-Lead (AI/ML Systems)</b></span>
+  <span><i>May 2025 - Present</i></span>
 </div>
-<p>Department of Computer Science and Engineering, Dhaka International University (DIU), Satarkul, Badda, Dhaka-1212, Bangladesh</p>
+<p>KineTex Lab (KIIT Chapter), KIIT University, Bhubaneswar, India</p>
 ------
 
 **Key Responsibilities:**
-- Develope teaching and student guiding skills.
-- Implemented outcome-based education (OBE), enhancing learning for students.
+- Conduct AI/ML-driven biomedical research in medical imaging, multimodal learning, and XAI; develop deep learning
+and transformer models using large-scale clinical datasets, collaborate with PhD scholars on ongoing projects, contribute
+to publications, and mentor undergraduate researchers through structured research guidance.
 
-**Courses Taught:** To see the courses I teach, visit [this page](https://amritoo.github.io/teaching).
 
 
 <div style="display: flex; justify-content: space-between;">
