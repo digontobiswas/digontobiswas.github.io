@@ -1,7 +1,7 @@
 ---
 title: "Computational Mapping of Human Host Proteins Associated with HMPV Using Protein–Protein Interaction Networks"
 collection: publications
-category: conferences
+category: Selected
 permalink: /publication/2026-hmpv-host-proteins
 excerpt: "Systems-level computational prediction of host proteins in HMPV infection."
 date: 2026-01-01
