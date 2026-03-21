@@ -85,6 +85,8 @@ publication_category:
     title: 'Journal Articles & Preprints'
   books:
     title: 'Book Chapters'
+  submitted:
+    title: 'Under Rivew'
 # Site Settings
 teaser : # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs : false # true, false (default)
