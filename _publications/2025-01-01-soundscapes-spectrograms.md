@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-soundscapes
 excerpt: "Multilabel classification of South Asian sounds using spectrograms."
-date: 2025-01-01
+date: 2026-01-01
 venue: "16th International Conference on Computing, Communication and Networking Technologies (ICCCNT 2025)"
 paperurl: "https://arxiv.org/pdf/2603.08154"
 slidesurl: '/files/chakrabarty2026soundscapes.pdf'
