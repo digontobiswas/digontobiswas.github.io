@@ -22,11 +22,11 @@ pursue a Ph.D. and develop robust AI systems.
 Research Interest
 ======
 
-- Artificial Intelligence (AI) and Machine Learning (ML)
-- Natural Language Processing (NLP)
-- Interpretable AI
-- Foundation Models
-- Human-AI Interaction
+- Computer Vision
+- Medical Imaging and Clinical AI
+- Autonomous Vehicles and Perception Systems
+- Vision-Language Models (VLMs) and Multimodal Learning
+- Explainable AI (XAI) for Clinical Decision Support
   
 Professional Experience
 ======
