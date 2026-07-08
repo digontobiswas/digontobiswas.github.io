@@ -36,7 +36,6 @@ ELITE Research Lab LLC,Queens, NY, USA(Remote)
 - Conduct research in computer vision, Autonomous Vehicles,  artificial intelligence, and machine learning under the guidance of senior researchers.
 - Developing deep learning and transformer models on large-scale clinical datasets
 
-- 
 **Undergraduate Research Assistant & Co-Lead (AI/ML Systems)**
 *Aug 2025 – Present*
 KineTex Lab (KIIT Chapter), KIIT University, Bhubaneswar
@@ -44,7 +43,7 @@ KineTex Lab (KIIT Chapter), KIIT University, Bhubaneswar
 - Developing deep learning and transformer models on large-scale clinical datasets
 - Mentoring undergraduate researchers and contributing to ongoing publications
 
-**Co-founder & Researcher **
+**Co-founder & Researcher**
 *May 2025 – Present*
 Biofolk (Remote)
 - Co-founded an interdisciplinary research platform bridging academia and industry
