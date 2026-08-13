@@ -30,6 +30,12 @@ Research Interest
   
 Professional Experience
 ======
+**Research Intern***
+*July 2026 – Present*
+Indian Institute of Technology, Kharagpur, India(On-Site)
+- Developing self-supervised cross-modal models for autonomous-vehicle perception using Param Shakti HPC
+- Working on ML/DL model development and deployment on NVIDIA Jetson Nano and Raspberry Pi for edge AI and TinyML applications.
+
 **Research Intern**
 *Jun 2026 – Present*
 ELITE Research Lab LLC,Queens, NY, USA(Remote) 
@@ -43,11 +49,7 @@ KineTex Lab (KIIT Chapter), KIIT University, Bhubaneswar
 - Developing deep learning and transformer models on large-scale clinical datasets
 - Mentoring undergraduate researchers and contributing to ongoing publications
 
-**Co-founder & Researcher**
-*May 2025 – Present*
-Biofolk (Remote)
-- Co-founded an interdisciplinary research platform bridging academia and industry
-- Leading collaborative initiatives in AI for healthcare and computational biology
+
   
 Selected Publications
 ======
