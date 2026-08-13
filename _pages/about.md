@@ -30,7 +30,7 @@ Research Interest
   
 Professional Experience
 ======
-**Research Intern***
+**Research Intern**
 *July 2026 – Present*
 Indian Institute of Technology, Kharagpur, India(On-Site)
 - Developing self-supervised cross-modal models for autonomous-vehicle perception using Param Shakti HPC
